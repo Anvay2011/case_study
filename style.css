@@ -1,0 +1,23 @@
+
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.modal-body{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+.image{
+    width: 200px;
+    height:200px;
+}
+.modal-body img{
+    width: 200px;
+    height: 200px;
+}
